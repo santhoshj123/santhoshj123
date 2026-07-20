@@ -1,119 +1,130 @@
 <div align="center">
 
 ```text
-[boot] Initializing profile.sh ...
-[boot] Loading kernel modules :: recon, exploit, report ......... [OK]
-[boot] Mounting /home/santhosh ................................. [OK]
-[boot] Establishing secure shell ................................ [OK]
-[boot] Authenticating user :: santhosh_jayaraman ................ [OK]
-[boot] Access Level :: JUNIOR PENETRATION TESTER
-[boot] Status ................................................... ONLINE
-[boot] Welcome back, root.
+┌─────────────────────────────────────────────────────────────────────┐
+│  root@santhosh:~# ./init_profile.sh                                  │
+├─────────────────────────────────────────────────────────────────────┤
+│  [ 0.001s ] Booting kernel .......................... [ OK ]         │
+│  [ 0.042s ] Loading modules :: recon exploit report . [ OK ]         │
+│  [ 0.089s ] Mounting /home/santhosh ................. [ OK ]         │
+│  [ 0.133s ] Establishing encrypted tunnel ........... [ OK ]         │
+│  [ 0.201s ] Authenticating :: santhosh_jayaraman .... [ OK ]         │
+│  [ 0.256s ] Access Level :: JUNIOR PENETRATION TESTER                │
+│  [ 0.300s ] Status ................................... ONLINE       │
+│  [ 0.301s ] Welcome back, root.                                      │
+└─────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1f17,100:00FF9C&height=220&section=header&text=SANTHOSH%20JAYARAMAN&fontSize=42&fontColor=00FF9C&animation=fadeIn&fontAlignY=38&desc=Cyber%20Security%20Researcher%20%7C%20Penetration%20Tester&descAlignY=58&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1f17,100:00FF9C&height=230&section=header&text=SANTHOSH%20JAYARAMAN&fontSize=44&fontColor=00FF9C&animation=fadeIn&fontAlignY=36&desc=Cyber%20Security%20Researcher%20%7C%20Offensive%20Security%20%7C%20Bug%20Bounty&descAlignY=58&descAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=00FF9C&background=00000000&center=true&vCenter=true&width=800&lines=root%40santhosh%3A~%23+whoami;Cyber+Security+Researcher;Penetration+Tester+%7C+eJPT+Certified;Web+Application+Security+Researcher;Bug+Bounty+Hunter+%7C+CTF+Player;%5Bsystem%5D+Access+Granted..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=800&color=00FF9C&background=00000000&center=true&vCenter=true&width=850&lines=root%40santhosh%3A~%23+whoami;Cyber+Security+Researcher+%7C+Pentester;eJPT+Certified+%7C+VAPT+Specialist;Web+App+Security+%7C+API+Abuse+Hunter;Building+offensive+security+tooling...;%5Bsystem%5D+Access+Granted+%E2%9C%93" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=00FF9C&style=for-the-badge&labelColor=000000"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=INTRUSION%20ATTEMPTS&color=00FF9C&style=for-the-badge&labelColor=000000"/>
 <img src="https://img.shields.io/badge/eJPT-CERTIFIED-00FF9C?style=for-the-badge&labelColor=000000&logo=hackthebox&logoColor=00FF9C"/>
 <img src="https://img.shields.io/badge/STATUS-HACKING%20RESPONSIBLY-00FF9C?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/UPTIME-99.9%25-00FF9C?style=for-the-badge&labelColor=000000"/>
 
 </div>
 
-<br/>
+<div align="center">
 
-## `$ neofetch`
+`░▒▓█ ░▒▓█ ░▒▓█ ░▒▓█ ░▒▓█ ░▒▓█ ░▒▓█ ░▒▓█ ░▒▓█ ░▒▓█ ░▒▓█ ░▒▓█ ░▒▓█ ░▒▓█ ░▒▓█ ░▒▓█ ░▒▓█ ░▒▓█ ░▒▓█ ░▒▓█`
+
+</div>
+
+## `> whoami --verbose`
 
 ```yaml
-santhosh@kali:~$ neofetch
-------------------------------------------------
+santhosh@kali:~$ neofetch --scan
+────────────────────────────────────────────────────
 Name           : Santhosh Jayaraman
+Alias          : root
 Role           : Cyber Security Researcher
-Education      : B.E. CSE (Cyber Security), 2023 - 2027
+Education      : B.E. CSE (Cyber Security), 2023 – 2027
 College        : Dr. Mahalingam College of Engineering & Technology
 Focus          : Web Application Security | VAPT | Red Teaming
 Certification  : eLearnSecurity Junior Penetration Tester (eJPT)
 OS             : Kali Linux
 Shell          : zsh
 Editor         : VS Code
-Status         : [ONLINE] Learning Active Directory & Red Team Ops
-------------------------------------------------
+Kernel         : Offense > Defense
+Uptime         : Learning Active Directory & Red Team Ops
+────────────────────────────────────────────────────
 ```
-
-<div align="center">
-
-`▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓`
-
-</div>
-
-## `$ cat about.md`
 
 - 🎯 Cyber Security Researcher specializing in **Web Application Security & Offensive Security**
 - 🔐 **eLearnSecurity Junior Penetration Tester (eJPT)** Certified
-- 🛡️ Interested in **VAPT, Red Teaming, API Security & Bug Bounty**
+- 🛡️ Focused on **VAPT, Red Teaming, API Security & Bug Bounty**
 - 📚 Currently deep-diving into **Active Directory, Cloud Security & Red Team Operations**
-- 💻 Builder — I don't just test systems, I build my own security tooling
-- ⚡ Linux-first, terminal-driven workflow
-- 💬 Ask me about: **Web App Pentesting, OWASP Top 10, Recon, Privilege Escalation**
+- 💻 Builder — I don't just test systems, I build my own offensive tooling
+- ⚡ Linux-first, terminal-driven, automation-obsessed workflow
+- 💬 Ask me about: **Web App Pentesting · OWASP Top 10 · Recon · Privilege Escalation**
 
 <div align="center">
 
-`▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓`
+`▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓`
 
 </div>
 
-## `$ cat skill_matrix.txt`
+## `> cat skill_matrix.dat`
 
 ```text
-[ SKILL MATRIX ]  (self-rated — tune the bars to match you)
-
-Web App Pentesting        : [########..] 80%
-Network Recon              : [#######...] 70%
-Active Directory            : [#####.....] 50%
-Cloud Security (AWS)        : [######....] 60%
-Red Teaming                  : [####......] 40%
-Scripting (Python/Bash)      : [#######...] 70%
+┌──────────────────────────┬──────────────────────────────┬───────┐
+│ MODULE                   │ PROGRESS                     │ LEVEL │
+├──────────────────────────┼──────────────────────────────┼───────┤
+│ Web App Pentesting       │ ████████████████░░░░  80%    │ HIGH  │
+│ Network Recon            │ ██████████████░░░░░░  70%    │ HIGH  │
+│ Scripting (Python/Bash)  │ ██████████████░░░░░░  70%    │ HIGH  │
+│ Cloud Security (AWS)     │ ████████████░░░░░░░░  60%    │ MED   │
+│ Active Directory         │ ██████████░░░░░░░░░░  50%    │ MED   │
+│ Red Teaming               │ ████████░░░░░░░░░░░░  40%    │ LOW   │
+└──────────────────────────┴──────────────────────────────┴───────┘
 ```
 
 <div align="center">
 
-`▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓`
+`▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓`
 
 </div>
 
-## `$ ls projects/ --featured`
+## `> ls -la projects/ --exploit-ready`
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 🔍 S3 Hunter Pro
-AWS S3 bucket misconfiguration assessment tool — built to identify exposed and misconfigured buckets during cloud recon.
+### 🔍 `S3_Hunter_Pro`
+AWS S3 bucket misconfiguration scanner built to identify exposed and misconfigured buckets during cloud recon.
 
 `Python` `AWS` `Cloud Security`
 
+**[ STATUS: ARMED ]**
+
 </td>
 <td width="33%" valign="top">
 
-### 🤖 JARVIS
-Local AI assistant built for cybersecurity workflows and task automation.
+### 🤖 `J.A.R.V.I.S`
+Local AI assistant engineered for security workflows and task automation.
 
 `Python` `Automation` `AI`
 
+**[ STATUS: DEPLOYED ]**
+
 </td>
 <td width="33%" valign="top">
 
-### 💼 Job Application Portal
+### 💼 `Job_Portal.sql`
 Resume-based job matching platform connecting applicants to relevant roles.
 
 `Web Dev` `SQL` `Full-stack`
+
+**[ STATUS: LIVE ]**
 
 </td>
 </tr>
@@ -121,45 +132,45 @@ Resume-based job matching platform connecting applicants to relevant roles.
 
 <div align="center">
 
-`▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓`
+`▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓`
 
 </div>
 
-## `$ cat experience.log`
+## `> tail -f experience.log`
 
 ```text
-[2024 - Present]   Cyberaran Private Limited
-                    → Penetration Testing Intern
+[2024 – PRESENT]   Cyberaran Private Limited
+                    ↳ Penetration Testing Intern
+                    ↳ Web app assessments, recon automation, reporting
 
-[Prior]             CyberTech Ninja Private Limited
-                    → VAPT Intern
+[PRIOR]             CyberTech Ninja Private Limited
+                    ↳ VAPT Intern
+                    ↳ Vulnerability assessment & remediation support
 ```
 
 <div align="center">
 
-`▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓`
+`▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓`
 
 </div>
 
-## `$ ps -ef | grep learning`
+## `> ps -ef | grep "currently_learning"`
 
 ```text
-🌱 CURRENTLY LEARNING
-
-[■■■■■■■■□□] Active Directory Security
-[■■■■■■□□□□] Red Team Operations
-[■■■■■■■□□□] Cloud Security (AWS)
-[■■■□□□□□□□] Malware Analysis
-[■■■■□□□□□□] Windows Internals
+[■■■■■■■■□□]  80%   Active Directory Security
+[■■■■■■■□□□]  70%   Cloud Security (AWS)
+[■■■■■■□□□□]  60%   Red Team Operations
+[■■■■□□□□□□]  40%   Windows Internals
+[■■■□□□□□□□]  30%   Malware Analysis
 ```
 
 <div align="center">
 
-`▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓`
+`▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓`
 
 </div>
 
-## `$ nmap --arsenal`
+## `> nmap --arsenal -A`
 
 ### Languages
 <p align="left">
@@ -200,11 +211,11 @@ Resume-based job matching platform connecting applicants to relevant roles.
 
 <div align="center">
 
-`▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓`
+`▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓`
 
 </div>
 
-## `$ cat core_interests.json`
+## `> cat core_interests.json`
 
 | Domain | Focus Area |
 |---|---|
@@ -218,11 +229,11 @@ Resume-based job matching platform connecting applicants to relevant roles.
 
 <div align="center">
 
-`▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓`
+`▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓`
 
 </div>
 
-## `$ curl ctf-platforms.txt`
+## `> curl ctf-platforms.txt`
 
 <p align="left">
 <img src="https://img.shields.io/badge/picoCTF-Active-00FF9C?style=for-the-badge&labelColor=000000"/>
@@ -231,17 +242,21 @@ Resume-based job matching platform connecting applicants to relevant roles.
 <img src="https://img.shields.io/badge/PortSwigger_Academy-Active-00FF9C?style=for-the-badge&labelColor=000000"/>
 </p>
 
-**🏆 Achievements**
-- 🌍 picoCTF — Global Rank **133**
-- 🏆 MetaCTF (DawgCTF) — **24th Place**
+```text
+[ ACHIEVEMENTS UNLOCKED ]
+──────────────────────────────────────────
+🌍  picoCTF          — Global Rank #133
+🏆  MetaCTF DawgCTF   — 24th Place
+──────────────────────────────────────────
+```
 
 <div align="center">
 
-`▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓`
+`▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓`
 
 </div>
 
-## `$ cat certifications.txt`
+## `> cat certifications.txt`
 
 <p align="left">
 <img src="https://img.shields.io/badge/eLearnSecurity-Junior%20Penetration%20Tester%20(eJPT)-00FF9C?style=for-the-badge&labelColor=000000&logo=hackthebox&logoColor=00FF9C"/>
@@ -249,11 +264,11 @@ Resume-based job matching platform connecting applicants to relevant roles.
 
 <div align="center">
 
-`▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓`
+`▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓`
 
 </div>
 
-## `$ ./github_stats.sh`
+## `> ./github_stats.sh --render`
 
 <div align="center">
 
@@ -270,11 +285,11 @@ Resume-based job matching platform connecting applicants to relevant roles.
 
 <div align="center">
 
-`▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓`
+`▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓`
 
 </div>
 
-## `$ ./contribution_snake.sh`
+## `> ./contribution_snake.sh --animate`
 
 <div align="center">
 
@@ -282,15 +297,15 @@ Resume-based job matching platform connecting applicants to relevant roles.
 
 </div>
 
-> ⚠️ The snake animation needs a one-time GitHub Actions setup in your profile repo — see `snake.yml` (provided separately) and the setup steps below.
+> ⚠️ The snake animation needs a one-time GitHub Actions setup in your profile repo. Add the `snake.yml` workflow below to `.github/workflows/` in your `YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME` repo, enable Actions, and it will auto-generate on the `output` branch.
 
 <div align="center">
 
-`▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓`
+`▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓`
 
 </div>
 
-## `$ nc -lvnp connect`
+## `> nc -lvnp 443 --connect`
 
 <p align="left">
 <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
@@ -312,16 +327,21 @@ Resume-based job matching platform connecting applicants to relevant roles.
 
 <div align="center">
 
-`▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓`
+`▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓`
 
 </div>
 
 <div align="center">
 
-### `$ echo $QUOTE`
+### `> echo $QUOTE`
 
-```
+```text
 "Breaking systems responsibly to build stronger security."
+```
+
+```text
+[system] Connection closed by root@santhosh.
+[system] Session log saved. Goodbye.
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,50:0d1f17,100:000000&height=150&section=footer"/>
